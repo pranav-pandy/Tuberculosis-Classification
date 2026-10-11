@@ -1,6 +1,6 @@
 # Tuberculosis Detection from Chest X-Rays
 
-A convolutional neural network that classifies chest X-ray images as tuberculosis or normal, trained with TensorFlow/Keras.
+A convolutional neural network that classifies chest X-ray images into two classes (tuberculosis and non-tuberculosis), trained with TensorFlow/Keras on 992 images.
 The classifier reached about 90% accuracy and was deployed in a Django web app.
 
 ## Models
